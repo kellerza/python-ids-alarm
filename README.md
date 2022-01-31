@@ -1,3 +1,7 @@
+# Please read the following comment
+
+https://github.com/kellerza/python-ids-alarm/issues/2#issuecomment-486716578
+
 # python-ids-alarm
 (Draft) Python library to interface with IDS Alarm panels.
 
